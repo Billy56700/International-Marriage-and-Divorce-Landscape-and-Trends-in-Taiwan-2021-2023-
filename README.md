@@ -277,7 +277,7 @@ Finally, the study's dataset includes data on same-sex marriages. Preliminary an
 
 ## Contributors
 
-The members of this project include Billy, Nicole, and Sinaee.
+The members of this project include PM & Writer Billy, PM & Writer Nicole, and Writer Sinaee.
 
 ## Acknowledgments
 
